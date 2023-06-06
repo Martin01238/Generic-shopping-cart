@@ -3,7 +3,14 @@
 This simple shopping cart prototype shows how React with Typescrip and Styled Components can be used to build a friendly user experience with dynamic visual updates and scaleable code in ecommerce applications.
 
 ![image](https://github.com/Martin01238/Generic-shopping-cart/assets/84841301/1aa6bb69-6b3e-411e-8532-0214b4ce2c71)
+
+You can add items to a shopping cart as shown:
+
 ![Screenshot 2023-06-05 161240](https://github.com/Martin01238/Generic-shopping-cart/assets/84841301/026799d8-683b-4588-b6b3-efb49ea157f0)
+
+Items can also be sorted by size:
+
+![image](https://github.com/Martin01238/Generic-shopping-cart/assets/84841301/500ab9fe-bf75-4821-89ce-d6edcc1dabd5)
 
 ## Build/Run
 
